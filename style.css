@@ -62,17 +62,17 @@ body {
   color: #fff;
   transition: all 0.5s ease;
 }
-.socials {
+.social {
   float: right;
 }
 
-.socials i {
+.social i {
   color: #fff;
   font-size: 1.3rem;
   margin: 0 1rem;
   cursor: pointer;
 }
-.socials i:hover {
+.social i:hover {
   color: var(--Pink);
   transition: all 0.5s ease;
 }
@@ -109,14 +109,14 @@ body {
   .button {
     padding: 10px 70px;
   }
-  .socials {
+  .social {
     float: none;
     margin: 4rem auto;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .socials i {
+  .social i {
     float: center;
     font-size: 1rem;
   }
